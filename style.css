@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 .cv {
     margin-top: 50px;
     border: 1px solid #4b4b4b;
-    box-shadow: 1px 1px 10px #000;
+    box-shadow: 1px 1px 10px rgb(246, 241, 241);
 }
 
 .cv-left {
