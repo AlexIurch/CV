@@ -4,8 +4,8 @@ body {
 }
 
 .body-bg {
-    background-image: url('../images/pexels-athena-2582937.jpg');
-    background-size: cover;
+    background-image: url('./pexels-pixabay-373543.jpg');
+    background-size: contain;
 }
 
 .color-grey {
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #leftRow{
-    margin-left: 5%;
+    margin-left: 1%;
 }
 
 .leftHeader{
