@@ -41,7 +41,7 @@ document.querySelector('.skills-list').innerHTML = skillsData;
 
 let educationData = '';
 data.education.forEach(item => {
-    educationData += `<li>${item[0]}, ${item[1]}</li>`;
+    educationData += `<p>${item[0]}<br> ${item[1]}, ${item[2]}</p>`;
 });
 document.querySelector('.education-list').innerHTML = educationData;
 
