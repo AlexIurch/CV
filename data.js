@@ -2,7 +2,7 @@ const data = {
     "first_name": "Oleksii",
     "last_name": "Iurchenko",
     "job_title": "Frontend developer",
-    "photo": "images/photo1.png",
+    "photo": "./photo1.png",
     "phone": "+4741174573",
     "email": "zema.dak.ua@gmail.com",
     // "skype": "skype_123number",
