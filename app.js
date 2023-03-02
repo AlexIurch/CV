@@ -51,6 +51,6 @@ document.querySelector('.education-list').innerHTML = educationData;
 
 let achievementsData = '';
 data.achievements.forEach(item => {
-    achievementsData += `<li>${item},</li>`;
+    achievementsData += `<li>${item}</li>`;
 });
 document.querySelector('.achievements-list').innerHTML = achievementsData;
