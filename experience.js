@@ -20,7 +20,7 @@ const experience = [
         "city": "Norway",
         "from": "2014",
         "to": '2015',
-        "position": "Worker",
+        "position": "Trainee",
         "description": "Production of organic agricultural products. Maintenance and repair of agricultural machinery and technical equipment."
     },
     {
