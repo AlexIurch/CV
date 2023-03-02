@@ -3,7 +3,7 @@ const experience = [
         "company": "Jobloop",
         "city": "Norway",
         "from": "2022",
-        "to": '2023',
+        "to": 'now',
         "position": "Frontend developer",
         "description": "Learning and practical skills"
     },
