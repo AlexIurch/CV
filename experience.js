@@ -1,9 +1,17 @@
 const experience = [
+       {
+        "company": "Omega365",
+        "city": "Norway",
+        "from": "2023",
+        "to": 'now',
+        "position": "Frontend developer",
+        "description": "Software development"
+    },
     {
         "company": "Jobloop",
         "city": "Norway",
         "from": "2022",
-        "to": 'now',
+        "to": "2023",
         "position": "Frontend developer",
         "description": "Learning and practical skills"
     },
