@@ -19,7 +19,7 @@ const experience = [
         "company": "Henning Guldhav jr",
         "city": "Norway",
         "from": "2016",
-        "to": '2020',
+        "to": '2021',
         "position": "Farm manager",
         "description": "Organization of the process of agricultural production and milk production. Maintenance of various systems and mechanisms"
     },
